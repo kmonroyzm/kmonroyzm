@@ -4,6 +4,57 @@
 - 💞️ I’m looking to collaborate on projects related to digital transformation, AI applications, and innovative business models.
 - 📫 How to reach me kristamonroymena@gmail.com
 - ⚡ Fun fact: I direct e-commerce and marketing for a national company called Escobas Cosmos that focuses on manufacturing ecological brooms from recycled PET. And in a few weeks I will do it for another hat company nationally and internationally. And I write in two media outlets DPL News and Ceabad.
+- 💼 Professional Experience,  specialist in digital transformation and technology analysis,
+- Worked on benchmarking for the Andean region and Europe in digital transformation,
+- Created a roadmap for the Federal Telecommunications Institute,
+- Analyst in digital economy and telecommunications,
+- Professor of Artificial Intelligence,
+- Professional in economic competition.
+- 📚 Education,
+- Master's in Applied Artificial Intelligence
+- Diploma in Digital Law
+- Diploma in Economic Competition
+- Diploma in Public Policy and Program Evaluation
+- Diploma in Data Science with Python
+- Bachelor’s in Economics
+- 📜 Certifications
+- Strategy and Digital Transformation
+-Leadership in the Digital Age
+-Advanced Specialty Certificate: Data Visualization
+-Global Environment and Technological Innovation Trends
+-Data Analysis with Python
+-Getting Started with Enterprise Data Science
+-Governance of the Digital and Internet Ecosystem
+-Key Technologies in Future Battlefield Domains: The Disruption of Cognitive Dominance
+-Enterprise Guide: ANOVA, Regression, and Logistic Regression
+-SAS Enterprise Guide 2: Advanced Tasks and Querying
+-SAS Enterprise Guide 1: Querying and Reporting
+-Artificial Intelligence (AI): Interactions and Prompts
+-Predictive Models with Machine Learning
+-Object-Oriented Programming with Java
+-AI for Everyone: Master the Basics
+-Artificial Intelligence and Legal Issues
+-Artificial Intelligence: An Overview
+-Blockchain: Understanding Its Uses and Implications
+-Ethics of Artificial Intelligence
+-Technologies and Platforms for Artificial Intelligence
+-Contemporary Computer Vision
+-Advanced Specialty Certificate: Artificial Intelligence and Machine Learning
+-Advanced Specialty Certificate: Artificial Intelligence and Machine Learning
+-Applied Scrum for Agile Project Management
+-Business Considerations for 5G with Edge, IoT, and AI
+-Business Considerations for Edge Computing
+-Ethics in AI and Data Science
+-ICT Fundamentals for Business Professionals: Software Development
+-Generative AI: Fundamentals, Applications, and Challenges
+-Ethical AI Use
+-Generative AI: Governance, Policy, and Emerging Regulation
+-Generative AI: Impact on Business and Society
+-Generative AI: Labor and the Future of Work
+-Responsible Generative AI
+-Using Python for Research
+-Machine Learning-Based Negotiation Algorithms
+.Artificial Intelligence in Marketing
 <!---
 kmonroyzm/kmonroyzm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
